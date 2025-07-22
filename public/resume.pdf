@@ -1,0 +1,119 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 800
+>>
+stream
+BT
+/F1 24 Tf
+50 720 Td
+(VARTUL) Tj
+0 -40 Td
+/F1 16 Tf
+(Computer Science Student | Backend Developer) Tj
+0 -60 Td
+/F1 12 Tf
+(Email: vartul@example.com | GitHub: github.com/vartul) Tj
+0 -30 Td
+(Phone: +91-XXXXXXXXXX | Location: Dehradun, India) Tj
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Technology in Computer Science) Tj
+0 -15 Td
+(University of Petroleum and Energy Studies (UPES)) Tj
+0 -15 Td
+(Expected Graduation: 2025) Tj
+0 -30 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 12 Tf
+(Backend: Node.js, Express.js, MongoDB, PostgreSQL, Redis) Tj
+0 -15 Td
+(Languages: JavaScript, TypeScript, Python, Java, C++) Tj
+0 -15 Td
+(Tools: Docker, Git, AWS, Linux, Postman) Tj
+0 -30 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -20 Td
+/F1 12 Tf
+(Personal Finance Assistant - MERN Stack) Tj
+0 -15 Td
+(• Built comprehensive financial management system) Tj
+0 -15 Td
+(• Implemented real-time expense tracking and budget planning) Tj
+0 -15 Td
+(• Created automated categorization and data visualization) Tj
+0 -20 Td
+(API Gateway Service - Node.js, Express.js, Redis) Tj
+0 -15 Td
+(• Developed microservices gateway with rate limiting) Tj
+0 -15 Td
+(• Implemented JWT authentication and load balancing) Tj
+0 -20 Td
+(Real-time Chat Engine - Socket.io, MongoDB) Tj
+0 -15 Td
+(• Built scalable messaging system with real-time features) Tj
+0 -15 Td
+(• Implemented chat rooms, DMs, and file sharing) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000066 00000 n 
+0000000123 00000 n 
+0000000270 00000 n 
+0000001122 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1185
+%%EOF
