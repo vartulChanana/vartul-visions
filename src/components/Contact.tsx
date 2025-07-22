@@ -117,7 +117,7 @@ const Contact = () => {
                 I'm always interested in hearing about new opportunities, especially in:
               </p>
               <div className="flex flex-wrap justify-center gap-2">
-                {["Backend Development", "API Design", "Microservices", "Database Optimization", "DevOps"].map((interest, i) => (
+                {["Backend Development", "API Design", "Microservices", "Database Optimization", "DevOps","AI|ML","DSA"].map((interest, i) => (
                   <span
                     key={i}
                     className="px-3 py-1 text-xs bg-secondary/50 text-secondary-foreground rounded-full"
