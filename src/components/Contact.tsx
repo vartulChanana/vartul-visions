@@ -7,21 +7,21 @@ const Contact = () => {
     {
       name: "Email",
       icon: <Mail className="w-5 h-5" />,
-      href: "mailto:vartul@example.com",
+      href: "mailto:vartulchanana@gmail.com",
       description: "Drop me a line",
       color: "tech-orange"
     },
     {
       name: "GitHub",
       icon: <Github className="w-5 h-5" />,
-      href: "https://github.com/vartul",
+      href: "https://github.com/vartulChanana",
       description: "Check out my code",
       color: "primary"
     },
     {
       name: "LinkedIn",
       icon: <Linkedin className="w-5 h-5" />,
-      href: "https://linkedin.com/in/vartul",
+      href: "https://www.linkedin.com/in/vartul-chanana-77a283221/",
       description: "Let's connect professionally",
       color: "tech-blue"
     }

@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ExternalLink, Github, Database, Server, Zap } from 'lucide-react';
+import { ExternalLink, Github, Database, BarChart3, Package } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
@@ -15,40 +15,40 @@ const Projects = () => {
         "Automated categorization",
         "Data visualization dashboard"
       ],
-      github: "https://github.com/vartul/finance-assistant",
+      github: "https://github.com/vartulChanana/finance-assistant",
       live: "https://finance-assistant-demo.com",
       icon: <Database className="w-6 h-6" />,
       gradient: "from-tech-green to-tech-blue"
     },
     {
-      title: "API Gateway Service",
-      description: "Microservices API gateway with rate limiting, authentication, and load balancing. Built for high-performance applications requiring scalable backend architecture.",
-      tech: ["Node.js", "Express.js", "Redis", "JWT", "Docker"],
+      title: "🗳️ Voting Bank Analysis using Sentiment Analysis",
+      description: "NLP-powered system that analyzes textual feedback to determine sentiment and dominant emotions from user inputs. Designed to interpret public opinion from voter statements with bulk Excel processing capabilities.",
+      tech: ["Python", "NLTK", "VADER", "Pandas", "Excel", "NLP"],
       features: [
-        "Rate limiting & throttling",
-        "JWT authentication",
-        "Load balancing",
-        "Request/Response logging",
-        "Health monitoring"
+        "Overall sentiment analysis (Positive/Neutral/Negative)",
+        "Dominant emotion detection (Happy, Sad, Angry, etc.)",
+        "Bulk Excel file processing",
+        "Custom keyword & phrase detection",
+        "Handles intensifiers and negations"
       ],
-      github: "https://github.com/vartul/api-gateway",
-      icon: <Server className="w-6 h-6" />,
+      github: "https://github.com/vartulChanana/voting-bank-analysis",
+      icon: <BarChart3 className="w-6 h-6" />,
       gradient: "from-tech-blue to-tech-purple"
     },
     {
-      title: "Real-time Chat Engine",
-      description: "Scalable real-time messaging system with Socket.io, featuring rooms, direct messages, and file sharing capabilities.",
-      tech: ["Socket.io", "Node.js", "MongoDB", "Express.js"],
+      title: "Smart Inventory Management System",
+      description: "Comprehensive inventory management solution built with the MERN stack. Features real-time tracking, automated alerts, and intelligent forecasting for efficient warehouse operations.",
+      tech: ["MongoDB", "Express.js", "React", "Node.js", "Chart.js"],
       features: [
-        "Real-time messaging",
-        "Chat rooms & DMs",
-        "File sharing",
-        "Typing indicators",
-        "Message history"
+        "Real-time inventory tracking",
+        "Automated low-stock alerts",
+        "Demand forecasting",
+        "Multi-location support",
+        "Analytics dashboard"
       ],
-      github: "https://github.com/vartul/chat-engine",
-      live: "https://chat-engine-demo.com",
-      icon: <Zap className="w-6 h-6" />,
+      github: "https://github.com/vartulChanana/smart-inventory",
+      live: "https://smart-inventory-demo.com",
+      icon: <Package className="w-6 h-6" />,
       gradient: "from-tech-purple to-primary"
     }
   ];

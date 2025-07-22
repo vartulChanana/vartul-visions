@@ -30,20 +30,24 @@ endobj
 
 4 0 obj
 <<
-/Length 800
+/Length 1200
 >>
 stream
 BT
 /F1 24 Tf
 50 720 Td
-(VARTUL) Tj
+(VARTUL CHANANA) Tj
 0 -40 Td
 /F1 16 Tf
 (Computer Science Student | Backend Developer) Tj
 0 -60 Td
 /F1 12 Tf
-(Email: vartul@example.com | GitHub: github.com/vartul) Tj
-0 -30 Td
+(Email: vartulchanana@gmail.com) Tj
+0 -15 Td
+(GitHub: github.com/vartulChanana) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/vartul-chanana-77a283221) Tj
+0 -15 Td
 (Phone: +91-XXXXXXXXXX | Location: Dehradun, India) Tj
 0 -40 Td
 /F1 14 Tf
@@ -64,7 +68,7 @@ BT
 0 -15 Td
 (Languages: JavaScript, TypeScript, Python, Java, C++) Tj
 0 -15 Td
-(Tools: Docker, Git, AWS, Linux, Postman) Tj
+(Tools: Docker, Git, AWS, Linux, Postman, NLTK, Pandas) Tj
 0 -30 Td
 /F1 14 Tf
 (PROJECTS) Tj
@@ -78,17 +82,21 @@ BT
 0 -15 Td
 (• Created automated categorization and data visualization) Tj
 0 -20 Td
-(API Gateway Service - Node.js, Express.js, Redis) Tj
+(Voting Bank Analysis using Sentiment Analysis - Python, NLTK) Tj
 0 -15 Td
-(• Developed microservices gateway with rate limiting) Tj
+(• Developed NLP system for sentiment and emotion analysis) Tj
 0 -15 Td
-(• Implemented JWT authentication and load balancing) Tj
+(• Implemented bulk Excel processing for voter feedback) Tj
+0 -15 Td
+(• Custom keyword detection with intensifier handling) Tj
 0 -20 Td
-(Real-time Chat Engine - Socket.io, MongoDB) Tj
+(Smart Inventory Management System - MERN Stack) Tj
 0 -15 Td
-(• Built scalable messaging system with real-time features) Tj
+(• Built comprehensive inventory tracking system) Tj
 0 -15 Td
-(• Implemented chat rooms, DMs, and file sharing) Tj
+(• Implemented automated alerts and demand forecasting) Tj
+0 -15 Td
+(• Created analytics dashboard with multi-location support) Tj
 ET
 endstream
 endobj
@@ -108,12 +116,12 @@ xref
 0000000066 00000 n 
 0000000123 00000 n 
 0000000270 00000 n 
-0000001122 00000 n 
+0000001522 00000 n 
 trailer
 <<
 /Size 6
 /Root 1 0 R
 >>
 startxref
-1185
+1585
 %%EOF
