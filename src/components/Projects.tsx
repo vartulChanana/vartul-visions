@@ -15,7 +15,7 @@ const Projects = () => {
         "Automated categorization",
         "Data visualization dashboard"
       ],
-      github: "https://github.com/vartulChanana/finance-assistant",
+      github: "https://github.com/vartulChanana/Personal-Finance-Assistant",
       live: "https://finance-assistant-demo.com",
       icon: <Database className="w-6 h-6" />,
       gradient: "from-tech-green to-tech-blue"
@@ -31,7 +31,7 @@ const Projects = () => {
         "Custom keyword & phrase detection",
         "Handles intensifiers and negations"
       ],
-      github: "https://github.com/vartulChanana/voting-bank-analysis",
+      github: "https://github.com/vartulChanana/voting-bank-sentiment-analysis",
       icon: <BarChart3 className="w-6 h-6" />,
       gradient: "from-tech-blue to-tech-purple"
     },
