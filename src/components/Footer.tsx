@@ -27,9 +27,7 @@ const Footer = () => {
           <div className="flex items-center justify-center gap-4 mb-8 text-muted-foreground">
             <div className="h-px bg-border/20 flex-1 max-w-20" />
             <div className="flex items-center gap-2 text-sm">
-              <span>Made with</span>
-              <Heart className="w-4 h-4 text-primary animate-pulse" />
-              <span>and lots of</span>
+              <span>Made with lots of</span>
               <Coffee className="w-4 h-4 text-tech-orange" />
             </div>
             <div className="h-px bg-border/20 flex-1 max-w-20" />
