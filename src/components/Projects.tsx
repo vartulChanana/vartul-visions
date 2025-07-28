@@ -15,8 +15,8 @@ const Projects = () => {
         "Automated categorization",
         "Data visualization dashboard"
       ],
-      github: "https://github.com/vartulChanana/Personal-Finance-Assistant",
-      live: "https://finance-assistant-demo.com",
+      github: "https://github.com/vartulChanana/sleek-fin-dash",
+      live: "https://finance-app-ten-inky.vercel.app/",
       icon: <Database className="w-6 h-6" />,
       gradient: "from-tech-green to-tech-blue"
     },
