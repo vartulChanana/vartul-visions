@@ -55,7 +55,7 @@ const Hero = () => {
               <span className="text-primary font-semibold">UPES</span>
             </p>
             <p className="text-lg text-muted-foreground/80">
-              Backend Engineer • MongoDB • Express • Node.js
+              Full Stack Engineer • MongoDB • Express • Node.js
             </p>
           </motion.div>
 
