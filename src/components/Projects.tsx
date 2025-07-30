@@ -111,7 +111,7 @@ const Projects = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4 glow-text">
-            Backend Projects
+            Dev Corner
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Building scalable, robust backend systems that power modern applications
