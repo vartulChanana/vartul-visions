@@ -50,6 +50,22 @@ const Projects = () => {
       live: "https://smart-inventory-demo.com",
       icon: <Package className="w-6 h-6" />,
       gradient: "from-tech-purple to-primary"
+    },
+    {
+      title: "🧘 Calm Pulse Companion",
+      description: "A calming web app to help users manage stress with guided breathing and session timers.",
+      tech: ["React", "Framer Motion", "Tailwind CSS", "Vite"],
+      features: [
+        "Breathing",
+        "Timers",
+        "Minimal UI",
+        "Responsive",
+        "Animations"
+      ],
+      github: "https://github.com/vartulChanana/calm-pulse-companion",
+      live: "https://calm-pulse-companion.vercel.app/",
+      icon: <Package className="w-6 h-6" />,
+      gradient: "from-sky-400 to-indigo-500"
     }
   ];
 
@@ -100,7 +116,6 @@ const Projects = () => {
               transition={{ duration: 0.6, delay: index * 0.1 }}
               className="glass-card p-6 rounded-xl hover:scale-105 transition-all duration-300 group"
             >
-              {/* Project header */}
               <div className="flex items-start justify-between mb-4">
                 <div className={`p-3 rounded-lg bg-gradient-to-r ${project.gradient} shadow-lg`}>
                   {project.icon}
@@ -129,7 +144,6 @@ const Projects = () => {
                 </div>
               </div>
 
-              {/* Project content */}
               <h3 className="text-xl font-bold mb-3 group-hover:text-primary transition-colors">
                 {project.title}
               </h3>
@@ -137,7 +151,6 @@ const Projects = () => {
                 {project.description}
               </p>
 
-              {/* Features */}
               {project.features && (
                 <div className="mb-4">
                   <h4 className="text-sm font-semibold mb-2 text-primary">Key Features:</h4>
@@ -152,7 +165,6 @@ const Projects = () => {
                 </div>
               )}
 
-              {/* Tech stack */}
               <div className="flex flex-wrap gap-2">
                 {project.tech.map((tech, i) => (
                   <span
