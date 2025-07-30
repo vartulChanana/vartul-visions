@@ -19,7 +19,7 @@ const Footer = () => {
               <span className="text-primary font-mono">vartul.dev</span>
             </h3>
             <p className="text-muted-foreground max-w-md mx-auto">
-              Backend developer crafting robust systems and APIs that make the digital world go round.
+              Full Stack Developer crafting robust systems and APIs that make the digital world go round.
             </p>
           </div>
 
