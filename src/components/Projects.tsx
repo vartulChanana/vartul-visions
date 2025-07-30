@@ -52,7 +52,7 @@ const Projects = () => {
       gradient: "from-tech-purple to-primary"
     },
     {
-      title: "🧘 Calm Pulse Companion",
+      title: "Calm Pulse Companion",
       description: "A calming web app to help users manage stress with guided breathing and session timers.",
       tech: ["React", "Framer Motion", "Tailwind CSS", "Vite"],
       features: [
@@ -66,6 +66,22 @@ const Projects = () => {
       live: "https://calm-pulse-companion.vercel.app/",
       icon: <Package className="w-6 h-6" />,
       gradient: "from-sky-400 to-indigo-500"
+    },
+    {
+      title: "Algorithm Visualizer",
+      description: "An interactive platform to visualize popular sorting and searching algorithms. Designed to enhance understanding through animated steps and speed control. Built with a modern, minimal UI.",
+      tech: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+      features: [
+        "Visualize sorting algorithms (Bubble, Merge, Quick, etc.)",
+        "Binary search step by step view",
+        "Speed and size control sliders",
+        "Dark and light mode toggle",
+        "Responsive and smooth animations"
+      ],
+      github: "https://github.com/vartulChanana/algo-visualizer",
+      live: "https://algo-visualizer-liart.vercel.app/",
+      icon: <BarChart3 className="w-6 h-6" />,
+      gradient: "from-green-400 to-blue-500"
     }
   ];
 
