@@ -31,7 +31,8 @@ const Projects = () => {
         "Custom keyword & phrase detection",
         "Handles intensifiers and negations"
       ],
-      github: "https://github.com/vartulChanana/voting-bank-sentiment-analysis",
+      github: "https://github.com/vartulChanana/vote-visual",
+      live: "https://vote-visual.vercel.app"
       icon: <BarChart3 className="w-6 h-6" />,
       gradient: "from-tech-blue to-tech-purple"
     },
