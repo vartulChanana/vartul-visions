@@ -10,7 +10,7 @@ const Skills = () => {
         { name: "Pandas", level: 85, color: "tech-blue" },
         { name: "NumPy", level: 80, color: "tech-green" },
         { name: "Prompt Engineering", level: 75, color: "tech-blue" },
-        { name: "Scikit-learn", level: 70, color: "primary" }
+        { name: "Scikit-learn", level: 70, color: "primary" },
       ]
     },
     {
@@ -29,8 +29,8 @@ const Skills = () => {
         { name: "Git", level: 80, color: "tech-blue" },
         { name: "Github", level: 85, color: "primary" },
         { name: "Postman", level: 70, color: "tech-orange" },
-        { name: "VsCode", level: 75, color: "tech-green" }
-        { name: "MySQL", level: 75, color: "tech-purple" }
+        { name: "VsCode", level: 75, color: "tech-green" },
+        { name: "MySQL", level: 75, color: "tech-purple" },
       ]
     }
   ];
