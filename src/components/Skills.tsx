@@ -4,33 +4,33 @@ import { motion } from 'framer-motion';
 const Skills = () => {
   const skillCategories = [
     {
-      title: "Backend Technologies",
+      title: "AI/ML",
       skills: [
-        { name: "Node.js", level: 90, color: "tech-green" },
-        { name: "Express.js", level: 85, color: "tech-blue" },
-        { name: "MongoDB", level: 80, color: "tech-green" },
-        { name: "PostgreSQL", level: 75, color: "tech-blue" },
-        { name: "Redis", level: 70, color: "primary" }
+        { name: "Generative AI", level: 90, color: "tech-green" },
+        { name: "Pandas", level: 85, color: "tech-blue" },
+        { name: "NumPy", level: 80, color: "tech-green" },
+        { name: "Prompt Engineering", level: 75, color: "tech-blue" },
+        { name: "Scikit-learn", level: 70, color: "primary" }
       ]
     },
     {
       title: "Programming Languages",
       skills: [
-        { name: "JavaScript", level: 90, color: "tech-orange" },
-        { name: "TypeScript", level: 85, color: "tech-blue" },
-        { name: "Python", level: 80, color: "tech-green" },
-        { name: "Java", level: 75, color: "primary" },
-        { name: "C++", level: 70, color: "tech-purple" }
+        { name: "Python", level: 90, color: "tech-orange" },
+        { name: "SQL", level: 85, color: "tech-blue" },
+        { name: "HTML", level: 80, color: "tech-green" },
+        { name: "CSS", level: 75, color: "primary" },
+        { name: "Java level: 60, color: "tech-purple" }
       ]
     },
     {
-      title: "Tools & DevOps",
+      title: "Tools & Database",
       skills: [
-        { name: "Docker", level: 80, color: "tech-blue" },
-        { name: "Git", level: 85, color: "primary" },
-        { name: "AWS", level: 70, color: "tech-orange" },
-        { name: "Linux", level: 75, color: "tech-green" },
-        { name: "Postman", level: 90, color: "tech-purple" }
+        { name: "Git", level: 80, color: "tech-blue" },
+        { name: "Github", level: 85, color: "primary" },
+        { name: "Postman", level: 70, color: "tech-orange" },
+        { name: "VsCode", level: 75, color: "tech-green" }
+        { name: "MySQL", level: 75, color: "tech-purple" }
       ]
     }
   ];
